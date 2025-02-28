@@ -2,9 +2,6 @@
 <Module>
 <ModulePrefs title="Your_Title_Here" />
 <Content type="html"><![CDATA[
-
-
-
 <!DOCTYPE html>
 <!--[if lt IE 8 ]><html class="lt8 lte8 lte9" lang="en"><![endif]-->
 <!--[if IE 8 ]><html class="ie8 lte8 lte9" lang="en"><![endif]-->
